@@ -24,4 +24,4 @@ for i in range(3):
 		print('比答案小')
 	print('這是你猜的第', i +1, '次')
 	if i == 2:
-		print('密碼上鎖,請洽程式管理員')
+		print('已上鎖,請洽程式管理員')
